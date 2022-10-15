@@ -7,7 +7,7 @@
 .danhmuc {
     background: none 0px 0px repeat scroll rgb(43, 87, 131);
     border-radius: 5px;
-    margin-top: 5px;    
+    margin-top: 5px;
     padding-left: 22px;
 }
 
@@ -17,6 +17,10 @@
     width: 100%;
     font-size: 14px;
     font-weight: bold;
+}
+
+h3.jsn-moduletitle {
+    padding-top: 5px;
 }
 
 .danhmuc li {
@@ -33,7 +37,8 @@
     text-decoration: none;
 }
 
-.danhmuc li a:hover, .danhmuc li a:active {
+.danhmuc li a:hover,
+.danhmuc li a:active {
     text-decoration: none;
     color: #F00;
 }

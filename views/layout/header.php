@@ -1,5 +1,7 @@
-<div id="header">
-    <div id="banner"></div>
+<div id="base-header-footer">
+    <video autoplay loop muted plays-inline class="back-video" width="100%" height="auto">
+        <source src="/resources/assets/images/banner.mp4" type="video/mp4">
+    </video>
     <div id="menu-top">
         <div class="ddsmoothmenu" id="smoothmenu1">
             <ul>

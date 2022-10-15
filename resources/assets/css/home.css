@@ -1,0 +1,57 @@
+#page-main {
+    float: right;
+    width: 760px;
+    height: auto;
+}
+
+.banner-video-container {
+    background-color: black;
+    height: 253.33px;
+    position: relative;
+}
+
+span.icon-graduation {
+    font-size: 3.5em;
+    margin-top: 0px;
+    background: url(../images/tot_nghiep.png) no-repeat left;
+    padding: 10px 52px;
+}
+
+span.menu-ngang {
+    background: #2b5783;
+    color: #fff;
+    padding: 5px 10px !important;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.title {
+    padding: 10px 0 10px 10px;
+}
+
+p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
+strong {
+    font-weight: bold;
+}
+
+a:hover {
+    color: #F00;
+    text-decoration: none;
+}

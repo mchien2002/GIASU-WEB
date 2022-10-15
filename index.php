@@ -18,8 +18,8 @@
         <?php  
             require './views/layout/header.php';
             require './views/page/home.php';
-            require './views/layout/footer.php';
             require './views/layout/sidebar.php';
+            require './views/layout/footer.php';
         ?>
     </div>
     
